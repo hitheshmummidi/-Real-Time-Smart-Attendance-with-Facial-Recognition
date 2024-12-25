@@ -1,0 +1,12 @@
+Flask==3.0.3
+mysql_connector_repackaged==0.3.1
+numpy==2.1.1
+opencv_python==4.7.0.72
+opencv_python_headless==4.10.0.84
+openpyxl==3.1.5
+python-dotenv==1.0.1
+Werkzeug==3.0.4
+
+# https://github.com/z-mahmud22/Dlib_Windows_Python3.x
+# pip install <file-name>.whl
+# pip install face-recognition flask python-dotenv openpyxl opencv-python mysql-connector-python
